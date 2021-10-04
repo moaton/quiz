@@ -5,5 +5,5 @@
 >The second category, guess what year the story was
 >And the third category, general questions
 >
->The project was created on vue3cli. using vue-router, vuex. Also for styles, the scss preprocessor7.
+>The project was created on vue3cli. using vue-router, vuex. Also for styles, the scss preprocessor.
 >Questions are stored in a json file where you need to raise a fake Rest API server
