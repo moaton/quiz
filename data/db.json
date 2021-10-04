@@ -1,0 +1,1625 @@
+{
+  "1000": [{
+      "id": 0,
+      "level": 9,
+      "category": 1000,
+      "question": {
+        "RU": "Флаг Андорры",
+        "ENG": "Andorra flag",
+        "KZ": "Андорра туы"
+      },
+      "options": [{
+          "id": 0,
+          "img": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Flag_of_Barbados.svg",
+          "desc": {
+            "RU": "Флаг Барбадоса",
+            "ENG": "The flag of Barbados",
+            "KZ": "Барбадос туы"
+          },
+          "correct": false
+        },
+        {
+          "id": 1,
+          "img": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg",
+          "desc": {
+            "RU": "Флаг Андорры",
+            "ENG": "Andorra flag",
+            "KZ": "Андорра туы"
+          },
+          "correct": true
+        },
+        {
+          "id": 2,
+          "img": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Flag_of_Guinea.svg",
+          "desc": {
+            "RU": "Флаг Гвинея",
+            "ENG": "The flag of Guinea",
+            "KZ": "Гвинея туы"
+          },
+          "correct": false
+        },
+        {
+          "id": 3,
+          "img": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg",
+          "desc": {
+            "RU": "Флаг Сент-Винсент и Гренадины",
+            "ENG": "Flag of Saint Vincent and the Grenadines",
+            "KZ": "Сент-Винсент пен Гренадиннің туы"
+          },
+          "correct": false
+        }
+      ],
+      "description": {
+        "RU": "Андо́рра, полное официальное название — Кня́жество Андо́рра — одно из карликовых государств Европы, расположенное в восточных Пиренеях между Францией и Испанией. Столица государства — Андорра-ла-Велья.",
+        "ENG": "Andorra, the full official name is the Principality of Andorra - one of the dwarf states of Europe, located in the eastern Pyrenees between France and Spain. The capital of the state is Andorra la Vella.",
+        "KZ": "Андорра, толық ресми атауы - Андорра княздігі - Франция мен Испания арасындағы Пиренейдің шығысында орналасқан Еуропаның ергежейлі мемлекеттерінің бірі. Штаттың астанасы - Андорра ла Велла."
+      }
+    },
+    {
+      "id": 1,
+      "level": 5,
+      "category": 1000,
+      "question": {
+        "RU": "Флаг Сингапура",
+        "ENG": "Singapore flag",
+        "KZ": "Сингапур туы"
+      },
+      "options": [{
+          "id": 0,
+          "img": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Singapore.svg",
+          "desc": {
+            "RU": "Флаг Сингапура",
+            "ENG": "Singapore flag",
+            "KZ": "Сингапур туы"
+          },
+          "correct": true
+        },
+        {
+          "id": 1,
+          "img": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg",
+          "desc": {
+            "RU": "Флаг Турции",
+            "ENG": "Flag of Turkey",
+            "KZ": "Түркияның туы"
+          },
+          "correct": false
+        },
+        {
+          "id": 2,
+          "img": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg",
+          "desc": {
+            "RU": "Флаг Монако",
+            "ENG": "Monaco flag",
+            "KZ": "Монако туы"
+          },
+          "correct": false
+        },
+        {
+          "id": 3,
+          "img": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Tunisia.svg",
+          "desc": {
+            "RU": "Флаг Тунис",
+            "ENG": "Tunisia flag",
+            "KZ": "Тунис туы"
+          },
+          "correct": false
+        }
+      ],
+      "description": {
+        "RU": "Респу́блика Сингапу́р — город-государство, расположенный на островах в Юго-Восточной Азии, отделённых от южной оконечности Малаккского полуострова узким Джохорским проливом. Сингапур считается вторым по безопасности городом на Земле после Токио",
+        "ENG": "The Republic of Singapore is a city-state located on the islands in Southeast Asia, separated from the southern tip of the Malacca Peninsula by the narrow Strait of Johor. Singapore is considered the second safest city on Earth after Tokyo",
+        "KZ": "Сингапур Республикасы-Оңтүстік-Шығыс Азиядағы аралдарда орналасқан қала-мемлекет, Малакка түбегінің оңтүстік шетінен тар Джохор бұғазымен бөлінген. Сингапур Токиодан кейінгі жердегі ең қауіпсіз екінші қала болып саналады"
+      }
+    },
+    {
+      "id": 2,
+      "level": 4,
+      "category": 1000,
+      "question": {
+        "RU": "Флаг Королевства Норвегия",
+        "ENG": "Kingdom of Norway flag",
+        "KZ": "Норвегия Корольдігінің туы"
+      },
+      "options": [{
+          "id": 0,
+          "img": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg",
+          "desc": {
+            "RU": "Флаг Финляндии",
+            "ENG": "Finland flag",
+            "KZ": "Финляндия туы"
+          },
+          "correct": false
+        },
+        {
+          "id": 1,
+          "img": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Flag_of_Georgia_official.svg",
+          "desc": {
+            "RU": "Флаг Грузии",
+            "ENG": "Flag of Georgia",
+            "KZ": "Грузия туы"
+          },
+          "correct": false
+        },
+        {
+          "id": 2,
+          "img": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg",
+          "desc": {
+            "RU": "Флаг Королевства Норвегия",
+            "ENG": "Kingdom of Norway flag",
+            "KZ": "Норвегия Корольдігінің туы"
+          },
+          "correct": true
+        },
+        {
+          "id": 3,
+          "img": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg",
+          "desc": {
+            "RU": "Флаг Дании",
+            "ENG": "Denmark flag",
+            "KZ": "Дании туы"
+          },
+          "correct": false
+        }
+      ],
+      "description": {
+        "RU": "Норве́гия, официальное название — Короле́вство Норве́гия — государство в Северной Европе, располагающееся в западной части Скандинавского полуострова и на огромном количестве прилегающих мелких островов, а также архипелаге Шпицберген (Свальбард), островах Ян-Майен и Медвежий в Северном Ледовитом океане.",
+        "ENG": "Norway, the official name is the Kingdom of Norway is a state in Northern Europe, located in the western part of the Scandinavian Peninsula and on a huge number of adjacent small islands, as well as the Spitsbergen (Svalbard) archipelago, Jan Mayen and Bear Islands in the Arctic Ocean.",
+        "KZ": "Норвегия, ресми атауы - Норвегия Корольдігі - Солтүстік Еуропадағы мемлекет, Скандинавия түбегінің батысында және көптеген іргелес шағын аралдарда, сондай -ақ Шпицберген (Шпицберген) архипелагында, Ян Майен мен Аюда орналасқан мемлекет. Солтүстік Мұзды мұхитындағы аралдар."
+      }
+    },
+    {
+      "id": 3,
+      "level": 6,
+      "category": 1000,
+      "question": {
+        "RU": "Флаг Замбии",
+        "ENG": "Zambia flag",
+        "KZ": "Замбия туы"
+      },
+      "options": [{
+          "id": 0,
+          "img": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Cameroon.svg",
+          "desc": {
+            "RU": "Флаг Камерун",
+            "ENG": "Flag of Cameroon",
+            "KZ": "Камерун туы"
+          },
+          "correct": false
+        },
+        {
+          "id": 1,
+          "img": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg",
+          "desc": {
+            "RU": "Флаг Зимбабве",
+            "ENG": "Zimbabwe flag",
+            "KZ": "Зимбабве туы"
+          },
+          "correct": false
+        },
+        {
+          "id": 2,
+          "img": "https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Cape_Verde.svg",
+          "desc": {
+            "RU": "Флаг Кабо-Верде",
+            "ENG": "Flag of Cape Verde",
+            "KZ": "Кабо-Верде туы"
+          },
+          "correct": false
+        },
+        {
+          "id": 3,
+          "img": "https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Zambia.svg",
+          "desc": {
+            "RU": "Флаг Замбии",
+            "ENG": "Zambia flag",
+            "KZ": "Замбия туы"
+          },
+          "correct": true
+        }
+      ],
+      "description": {
+        "RU": "За́мбия, полная официальная форма — Респу́блика За́мбия — государство в Южной Африке.",
+        "ENG": "Zambia, full official form - The Republic of Zambia is a state in South Africa.",
+        "KZ": "Замбия, толық ресми формасы - Замбия Республикасы - Оңтүстік Африкадағы мемлекет."
+      }
+    },
+    {
+      "id": 4,
+      "level": 1,
+      "category": 1000,
+      "question": {
+        "RU": "Флаг России",
+        "ENG": "Russia flag",
+        "KZ": "Ресей туы"
+      },
+      "options": [{
+          "id": 0,
+          "img": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Flag_of_Yugoslavia_%281918%E2%80%931941%29.svg",
+          "desc": {
+            "RU": "Флаг Югославии",
+            "ENG": "Yugoslavia flag",
+            "KZ": "Югославия туы"
+          },
+          "correct": false
+        },
+        {
+          "id": 1,
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg",
+          "desc": {
+            "RU": "Флаг России",
+            "ENG": "Russia flag",
+            "KZ": "Ресей туы"
+          },
+          "correct": true
+        },
+        {
+          "id": 2,
+          "img": "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg",
+          "desc": {
+            "RU": "Флаг Нидерландов",
+            "ENG": "Netherlands flag",
+            "KZ": "Нидерланды туы"
+          },
+          "correct": false
+        },
+        {
+          "id": 3,
+          "img": "https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Luxembourg.svg",
+          "desc": {
+            "RU": "Флаг Люксембурга",
+            "ENG": "Luxembourg flag",
+            "KZ": "Люксембург туы"
+          },
+          "correct": false
+        }
+      ],
+      "description": {
+        "RU": "Росси́я или Росси́йская Федера́ция, — государство в Восточной Европе и Северной Азии. Территория России в её конституционных границах составляет 17 125 191 км²; население страны (в пределах её заявленной территории) составляет 146 171 015 чел. (2021). Занимает первое место в мире по территории, шестое — по объёму ВВП по ППС и девятое — по численности населения",
+        "ENG": "Russia or the Russian Federation is a state in Eastern Europe and North Asia. The territory of Russia within its constitutional boundaries is 17,125,191 km²; the population of the country (within its declared territory) is 146,171,015 people. (2021). Ranked first in the world in terms of territory, sixth in terms of GDP in PPP and ninth in terms of population",
+        "KZ": "Ресей немесе Ресей Федерациясы - Шығыс Еуропа мен Солтүстік Азиядағы мемлекет. Ресейдің конституциялық шекарасындағы аумағы 17,125,191 км²; елдің халқы (оның жарияланған аумағында) 146 171 015 адамды құрайды. (2021). Жер көлемі бойынша әлемде бірінші, МЖӘ бойынша алтыншы және халық саны бойынша тоғызыншы"
+      }
+    },
+    {
+      "id": 5,
+      "level": 9,
+      "category": 1000,
+      "question": {
+        "RU": "Флаг Эритреи",
+        "ENG": "Eritrea flag",
+        "KZ": "Эритрея туы"
+      },
+      "options": [{
+          "id": 0,
+          "img": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Sao_Tome_and_Principe.svg",
+          "desc": {
+            "RU": "Флаг Сан-Томе и Принсипи",
+            "ENG": "Flag of Sao Tome and Principe",
+            "KZ": "Сан -Томе және Принсипи жалауы"
+          },
+          "correct": false
+        },
+        {
+          "id": 1,
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Seychelles.svg",
+          "desc": {
+            "RU": "Флаг Сейшелы",
+            "ENG": "Seychelles flag",
+            "KZ": "Сейшела туы"
+          },
+          "correct": false
+        },
+        {
+          "id": 2,
+          "img": "https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+          "desc": {
+            "RU": "Флаг Экваториальная Гвинеи",
+            "ENG": "Flag of Equatorial Guinea",
+            "KZ": "Экваториальнды Гвинея туы"
+          },
+          "correct": false
+        },
+        {
+          "id": 3,
+          "img": "https://upload.wikimedia.org/wikipedia/commons/2/29/Flag_of_Eritrea.svg",
+          "desc": {
+            "RU": "Флаг Эритреи",
+            "ENG": "Eritrea flag",
+            "KZ": "Эритрея туы"
+          },
+          "correct": true
+        }
+      ],
+      "description": {
+        "RU": "Эритре́я, официальное название — Госуда́рство Эритре́я — государство в Восточной Африке на побережье Красного моря в районе Африканского Рога. Столица и крупнейший город — Асмэра.",
+        "ENG": "Eritrea, the official name is the State of Eritrea - a state in East Africa on the Red Sea coast in the Horn of Africa. The capital and largest city is Asmara.",
+        "KZ": "Эритрея, ресми атауы - Эритрея штаты - Шығыс Африкадағы Қызыл теңіз жағалауындағы Африка мүйізіндегі мемлекет. Астанасы мен ең үлкен қаласы - Асмара."
+      }
+    },
+    {
+      "id": 6,
+      "level": 10,
+      "category": 1000,
+      "question": {
+        "RU": "Флаг Свазиленд",
+        "ENG": "Swaziland flag",
+        "KZ": "Свазиленд туы"
+      },
+      "options": [{
+          "id": 0,
+          "img": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Palau.svg",
+          "desc": {
+            "RU": "Флаг Палау",
+            "ENG": "Palau flag",
+            "KZ": "Палау туы"
+          },
+          "correct": false
+        },
+        {
+          "id": 1,
+          "img": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Flag_of_Papua_New_Guinea.svg",
+          "desc": {
+            "RU": "Флаг Папуа - Новая Гвинея",
+            "ENG": "Papua New Guinea",
+            "KZ": "Папуа Жаңа Гвинея туы"
+          },
+          "correct": false
+        },
+        {
+          "id": 2,
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Flag_of_Eswatini.svg",
+          "desc": {
+            "RU": "Флаг Свазиленд",
+            "ENG": "Swaziland flag",
+            "KZ": "Свазиленд туы"
+          },
+          "correct": true
+        },
+        {
+          "id": 3,
+          "img": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Saint_Lucia.svg",
+          "desc": {
+            "RU": "Флаг Сент-Люсия",
+            "ENG": "Flag of Saint Lucia",
+            "KZ": "Сент-Люсия туы"
+          },
+          "correct": false
+        }
+      ],
+      "description": {
+        "RU": "Короле́вство Эсвати́ни, до 2018 года — Короле́вство Сва́зиле́нд (англ. Kingdom of Swaziland) — государство в Южной Африке",
+        "ENG": "Kingdom of Swaziland, until 2018 - Kingdom of Swaziland - a state in South Africa",
+        "KZ": "Свазиленд Корольдігі, 2018 жылға дейін - Свазиленд Корольдігі - Оңтүстік Африкадағы мемлекет"
+      }
+    },
+    {
+      "id": 7,
+      "level": 7,
+      "category": 1000,
+      "question": {
+        "RU": "Флаг Непалы",
+        "ENG": "Nepal flag",
+        "KZ": "Непала туы"
+      },
+      "options": [{
+          "id": 0,
+          "img": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Flag_of_Nepal.svg",
+          "desc": {
+            "RU": "Флаг Непалы",
+            "ENG": "Nepal flag",
+            "KZ": "Непала туы"
+          },
+          "correct": true
+        },
+        {
+          "id": 1,
+          "img": "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_the_Vatican_City.svg",
+          "desc": {
+            "RU": "Флаг Ватикана",
+            "ENG": "Vatican flag",
+            "KZ": "Ватикан туы"
+          },
+          "correct": false
+        },
+        {
+          "id": 2,
+          "img": "https://upload.wikimedia.org/wikipedia/commons/9/92/Drapeau_aux_serpents_de_la_Martinique.svg",
+          "desc": {
+            "RU": "Флаг Мартиники",
+            "ENG": "Flag of Martinique",
+            "KZ": "Мартиника туы"
+          },
+          "correct": false
+        },
+        {
+          "id": 3,
+          "img": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg",
+          "desc": {
+            "RU": "Флаг Мальдивы",
+            "ENG": "Maldives flag",
+            "KZ": "Мальдив туы"
+          },
+          "correct": false
+        }
+      ],
+      "description": {
+        "RU": "Непа́л, официальное название — Федерати́вная Демократи́ческая Респу́блика Непа́л — государство в Гималаях в Южной Азии. Граничит с Индией и Китаем. Столица — город Катманду.",
+        "ENG": "Nepal, the official name is the Federal Democratic Republic of Nepal - a state in the Himalayas in South Asia. It shares borders with India and China. The capital is the city of Kathmandu.",
+        "KZ": "Непал, ресми атауы - Непал Федеративтік Демократиялық Республикасы - Оңтүстік Азиядағы Гималайдағы мемлекет. Үндістан мен Қытаймен шекаралас. Астанасы - Катманду қаласы."
+      }
+    },
+    {
+      "id": 8,
+      "level": 1,
+      "category": 1000,
+      "question": {
+        "RU": "Флаг Великобритания",
+        "ENG": "UK flag",
+        "KZ": "Ұлыбритания туы"
+      },
+      "options": [{
+          "id": 0,
+          "img": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_the_Cayman_Islands.svg",
+          "desc": {
+            "RU": "Флаг Каймановых островов",
+            "ENG": "Cayman Islands flag",
+            "KZ": "Кайман аралдарының туы"
+          },
+          "correct": false
+        },
+        {
+          "id": 1,
+          "img": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg",
+          "desc": {
+            "RU": "Флаг Великобритания",
+            "ENG": "UK flag",
+            "KZ": "Ұлыбритания туы"
+          },
+          "correct": true
+        },
+        {
+          "id": 2,
+          "img": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg",
+          "desc": {
+            "RU": "Флаг Новой Зеландии",
+            "ENG": "Flag of new zealand",
+            "KZ": "Жаңа Зеландияның туы"
+          },
+          "correct": false
+        },
+        {
+          "id": 3,
+          "img": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Flag_of_Hawaii.svg",
+          "desc": {
+            "RU": "Флаг Гавайских островов",
+            "ENG": "Hawaiian flag",
+            "KZ": "Гавайи туы"
+          },
+          "correct": false
+        }
+      ],
+      "description": {
+        "RU": "Великобрита́ния, или Соединённое Короле́вство, полная официальная форма — Соединённое Короле́вство Великобрита́нии и Се́верной Ирла́ндии — островное государство на северо-западе от континентальной Европы.",
+        "ENG": "Great Britain, or the United Kingdom, the full official form is the United Kingdom of Great Britain and Northern Ireland - an island state in the northwest of continental Europe.",
+        "KZ": "Ұлыбритания немесе Ұлыбритания, толық ресми формасы - Ұлыбритания мен Солтүстік Ирландия Біріккен Корольдігі - құрлықтық Еуропаның солтүстік -батысындағы аралдық мемлекет."
+      }
+    },
+    {
+      "id": 9,
+      "level": 8,
+      "category": 1000,
+      "question": {
+        "RU": "Флаг Гавайских островов",
+        "ENG": "Hawaiian flag",
+        "KZ": "Гавайи туы"
+      },
+      "options": [{
+          "id": 0,
+          "img": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg",
+          "desc": {
+            "RU": "Флаг Новой Зеландии",
+            "ENG": "Flag of new zealand",
+            "KZ": "Жаңа Зеландияның туы"
+          },
+          "correct": false
+        },
+        {
+          "id": 1,
+          "img": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_the_Cayman_Islands.svg",
+          "desc": {
+            "RU": "Флаг Каймановых островов",
+            "ENG": "Cayman Islands flag",
+            "KZ": "Кайман аралдарының туы"
+          },
+          "correct": false
+        },
+        {
+          "id": 2,
+          "img": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Flag_of_Hawaii.svg",
+          "desc": {
+            "RU": "Флаг Гавайских островов",
+            "ENG": "Hawaiian flag",
+            "KZ": "Гавайи туы"
+          },
+          "correct": true
+        },
+        {
+          "id": 3,
+          "img": "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Saint_Helena.svg",
+          "desc": {
+            "RU": "Флаг Острова Святой Елены",
+            "ENG": "Flag of Saint Helena",
+            "KZ": "Әулие Елена туы"
+          },
+          "correct": false
+        }
+      ],
+      "description": {
+        "RU": "Гава́йские острова́ (или Гавайский архипелаг, англ. Hawaiian Islands, гав. mokupuni o Hawaiʻi) — архипелаг из 24 островов и атоллов, расположенный в северной части Тихого океана.Острова получили своё название от названия крупнейшего острова — Гавайи. Почти все острова архипелага образуют штат Гавайи США (с 1959 года).",
+        "ENG": "The Hawaiian Islands (or Hawaiian Archipelago, English Hawaiian Islands, harbor mokupuni o Hawaiʻi) is an archipelago of 24 islands and atolls located in the North Pacific Ocean. The islands got their name from the name of the largest island - Hawaii. Almost all the islands of the archipelago form the state of Hawaii, USA (since 1959).",
+        "KZ": "Гавай аралдары (немесе Гавай архипелагы, ағылшын Гавай аралдары, мокупуни о Гавайи порты) - Тынық мұхитының солтүстігінде орналасқан 24 арал мен атоллдан тұратын архипелаг.Аралдар өз атауын ең үлкен аралдың аты - Гавайдан алды. Архипелаг аралдарының барлығы дерлік АҚШ -тың Гавайи штатын құрайды (1959 жылдан)."
+      }
+
+    },
+    {
+      "level": 1,
+      "category": 1000,
+      "question": {
+        "RU": "Флаг Никарагуа",
+        "ENG": "Nicaragua flag",
+        "KZ": "Никарагуа туы"
+      },
+      "options": [{
+          "id": 0,
+          "img": "https://upload.wikimedia.org/wikipedia/commons/2/28/Flag_of_Puerto_Rico.svg",
+          "desc": {
+            "RU": "Флаг Пуэрто-Рико",
+            "ENG": "Flag of Puerto Rico",
+            "KZ": "Пуэрто-Рико туы"
+          },
+          "correct": false
+        },
+        {
+          "id": 1,
+          "img": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+          "desc": {
+            "RU": "Флаг Никарагуа",
+            "ENG": "Nicaragua flag",
+            "KZ": "Никарагуа туы"
+          },
+          "correct": true
+        },
+        {
+          "id": 2,
+          "img": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg",
+          "desc": {
+            "RU": "Флаг Марокко",
+            "ENG": "Flag of Morocco",
+            "KZ": "Марокко туы"
+          },
+          "correct": false
+        },
+        {
+          "id": 3,
+          "img": "https://upload.wikimedia.org/wikipedia/commons/3/30/Flag_of_Nauru.svg",
+          "desc": {
+            "RU": "Флаг Науру",
+            "ENG": "Nauru flag",
+            "KZ": "Науру туы"
+          },
+          "correct": false
+        }
+      ],
+      "description": {
+        "RU": "Респу́блика Никара́гуа — государство в Центральной Америке, между Коста-Рикой (на юге) и Гондурасом (на севере).",
+        "ENG": "The Republic of Nicaragua is a state in Central America, between Costa Rica (in the south) and Honduras (in the north).",
+        "KZ": "Никарагуа Республикасы - Орталық Америкада, Коста -Рика (оңтүстікте) мен Гондурас (солтүстікте) арасында орналасқан мемлекет."
+      },
+      "id": 10
+    },
+    {
+      "level": "7",
+      "category": 1000,
+      "question": {
+        "RU": "Флаг Республики Руанда",
+        "ENG": "Flag of the Republic of Rwanda",
+        "KZ": "Руанда Республикасының туы"
+      },
+      "options": [{
+          "id": 0,
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Aruba.svg",
+          "desc": {
+            "RU": "Флаг Арубы",
+            "ENG": "Flag of aruba",
+            "KZ": "Аруба туы"
+          },
+          "correct": false
+        },
+        {
+          "id": 1,
+          "img": "https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Samoa.svg",
+          "desc": {
+            "RU": "Флаг Самоа",
+            "ENG": "Samoa flag",
+            "KZ": "Самоа туы"
+          },
+          "correct": false
+        },
+        {
+          "id": 2,
+          "img": "https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
+          "desc": {
+            "RU": "Флаг Республики Руанда",
+            "ENG": "Flag of the Republic of Rwanda",
+            "KZ": "Руанда Республикасының туы"
+          },
+          "correct": true
+        },
+        {
+          "id": 3,
+          "img": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Flag_of_Uganda.svg",
+          "desc": {
+            "RU": "Флаг Уганда",
+            "ENG": "Uganda flag",
+            "KZ": "Уганда туы"
+          },
+          "correct": false
+        }
+      ],
+      "description": {
+        "RU": "Руа́нда, официальное название — Респу́блика Руа́нда — государство в Восточной Африке. Столица — город Кигали.",
+        "ENG": "Rwanda, the official name is the Republic of Rwanda - a state in East Africa. The capital is the city of Kigali.",
+        "KZ": "Руанда, ресми атауы - Руанда Республикасы, Шығыс Африкадағы мемлекет. Астанасы - Кигали қаласы."
+      },
+      "id": 11
+    }
+  ],
+  "2000": [{
+      "category": 2000,
+      "question": {
+        "RU": "Когда пал Западная Римская империя?",
+        "ENG": "When did the Western Roman Empire fall?",
+        "KZ": "Батыс Рим империясы қашан құлады?"
+      },
+      "options": [{
+          "id": 0,
+          "answer": {
+            "RU": "476 год",
+            "ENG": "476",
+            "KZ": "476 жыл"
+          },
+          "correct": true
+        },
+        {
+          "id": 1,
+          "answer": {
+            "RU": "324 год",
+            "ENG": "324",
+            "KZ": "324 жыл"
+          },
+          "correct": false
+        },
+        {
+          "id": 2,
+          "answer": {
+            "RU": "654 год",
+            "ENG": "654",
+            "KZ": "654 жыл"
+          },
+          "correct": false
+        },
+        {
+          "id": 3,
+          "answer": {
+            "RU": "400 год",
+            "ENG": "400",
+            "KZ": "400 жыл"
+          },
+          "correct": false
+        }
+      ],
+      "description": {
+        "RU": "За́падная Ри́мская импе́рия — название западной, преимущественно романоязычной, части Римской империи в конце (или середине) IV — конце V вв.",
+        "ENG": "The Western Roman Empire is the name of the western, predominantly Roman-speaking, part of the Roman Empire at the end (or middle) of the IV - end of the V centuries.",
+        "KZ": "Батыс Рим империясы — IV ғасырдың аяғында (немесе ортасында) - V ғасырдың аяғында Рим империясының батыс, негізінен роман тілді бөлігінің атауы."
+      },
+      "id": 1
+    },
+    {
+      "category": 2000,
+      "question": {
+        "RU": "Когда был принята Декларация независимости США?",
+        "ENG": "When was the US Declaration of Independence adopted?",
+        "KZ": "АҚШ тәуелсіздігі туралы Декларация қашан қабылданды?"
+      },
+      "options": [{
+          "id": 0,
+          "answer": {
+            "RU": "1676 год",
+            "ENG": "1676",
+            "KZ": "1676 жыл"
+          },
+          "correct": false
+        },
+        {
+          "id": 1,
+          "answer": {
+            "RU": "1776 год",
+            "ENG": "1776",
+            "KZ": "1776 жыл"
+          },
+          "correct": true
+        },
+        {
+          "id": 2,
+          "answer": {
+            "RU": "1576 год",
+            "ENG": "1576",
+            "KZ": "1576 жыл"
+          },
+          "correct": false
+        },
+        {
+          "id": 3,
+          "answer": {
+            "RU": "1876 год",
+            "ENG": "1876",
+            "KZ": "1876 жыл"
+          },
+          "correct": false
+        }
+      ],
+      "description": {
+        "RU": "Деклара́ция незави́симости США — исторический документ, в котором британские колонии в Северной Америке объявили независимость от Великобритании, принят единогласно Вторым Континентальным конгрессом 4 июля 1776 года в Филадельфии, штат Пенсильвания.",
+        "ENG": "The Declaration of Independence of the United States is a historical document in which the British colonies in North America declared independence from Great Britain, adopted unanimously by the Second Continental Congress on July 4, 1776 in Philadelphia, Pennsylvania.",
+        "KZ": "АҚШ — тың Тәуелсіздік декларациясы-Солтүстік Америкадағы Британдық отарлар Ұлыбританиядан тәуелсіздігін жариялаған тарихи құжат, 1776 жылы 4 шілдеде Филадельфияда, Пенсильванияда екінші континенталды Конгресс бірауыздан қабылдады."
+      },
+      "id": 2
+    },
+    {
+      "category": 2000,
+      "question": {
+        "RU": "Когда была первая \"опиумная война\"",
+        "ENG": "When was the first \"opium war\"",
+        "KZ": "Алғашқы \"апиын соғысы\" болған кезде"
+      },
+
+      "options": [{
+          "id": 0,
+          "answer": {
+            "RU": "1840-1842 года",
+            "ENG": "1840-1842",
+            "KZ": "1840-1842 жылдар"
+          },
+          "correct": true
+        },
+        {
+          "id": 1,
+          "answer": {
+            "RU": "1864 год",
+            "ENG": "1864",
+            "KZ": "1864 жыл"
+          },
+          "correct": false
+        },
+        {
+          "id": 2,
+          "answer": {
+            "RU": "1765-1789 года",
+            "ENG": "1765-1789",
+            "KZ": "1765-1789 жылдар"
+          },
+          "correct": false
+        },
+        {
+          "id": 3,
+          "answer": {
+            "RU": "1901 год",
+            "ENG": "1901",
+            "KZ": "1901 жыл"
+          },
+          "correct": false
+        }
+      ],
+      "description": {
+        "RU": "Первая опиумная война 1840—1842 годов велась между Великобританией и Империей Цин. Предпосылкой войны был перекос торгового баланса между этими странами в пользу Китая, причиной которого являлась китайская политика ограждения империи от иностранного влияния.",
+        "ENG": "The first opium War of 1840-1842 was fought between Great Britain and the Qing Empire. The prerequisite for the war was the skewed trade balance between these countries in favor of China, the reason for which was the Chinese policy of protecting the empire from foreign influence.",
+        "KZ": "1840-1842 жылдардағы алғашқы апиын соғысы Ұлыбритания мен Цин империясы арасында өтті. Соғыстың алғышарты Қытайдың пайдасына осы елдер арасындағы сауда балансының бұрмалануы болды, оның себебі империяны шетелдік ықпалдан қорғау саясаты болды."
+      },
+      "id": 3
+    },
+    {
+      "category": 2000,
+      "question": {
+        "RU": "Когда была первая мировая война?",
+        "ENG": "When was the First World War?",
+        "KZ": "Бірінші дүниежүзілік соғыс қашан болды?"
+      },
+      "options": [{
+          "id": 0,
+          "answer": {
+            "RU": "1895-1898 года",
+            "ENG": "1895-1898",
+            "KZ": "1895-1898 жылдар"
+          },
+          "correct": false
+        },
+        {
+          "id": 1,
+          "answer": {
+            "RU": "1855-1868 года",
+            "ENG": "1855-1868",
+            "KZ": "1855-1868 жылдар"
+          },
+          "correct": false
+        },
+        {
+          "id": 2,
+          "answer": {
+            "RU": "1920-1939 года",
+            "ENG": "1920-1939",
+            "KZ": "1920-1939 жылдар"
+          },
+          "correct": false
+        },
+        {
+          "id": 3,
+          "answer": {
+            "RU": "1914-1918 года",
+            "ENG": "1914-1918",
+            "KZ": "1914-1918 жылдар"
+          },
+          "correct": true
+        }
+      ],
+      "description": {
+        "RU": "Пе́рвая мирова́я война́ (28 июля 1914 года — 11 ноября 1918 года) — одна из самых широкомасштабных войн в истории человечества.",
+        "ENG": "The First World War (July 28, 1914 - November 11, 1918) was one of the most widespread wars in the history of mankind.",
+        "KZ": "Бірінші дүниежүзілік соғыс (1914 жылғы 28 шілде — 1918 жылғы 11 қараша) — адамзат тарихындағы ең ауқымды соғыстардың бірі."
+      },
+      "id": 4
+    },
+    {
+      "category": 2000,
+      "question": {
+        "RU": "Когда была вторая мировая война?",
+        "ENG": "When was the Second World War?",
+        "KZ": "Екінші дүниежүзілік соғыс қашан болды?"
+      },
+      "options": [{
+          "id": 0,
+          "answer": {
+            "RU": "1940-1945 года",
+            "ENG": "1940-1945",
+            "KZ": "1940-1945 жылдар"
+          },
+          "correct": false
+        },
+        {
+          "id": 1,
+          "answer": {
+            "RU": "1939-1945 года",
+            "ENG": "1939-1945",
+            "KZ": "1939-1945 жылдар"
+          },
+          "correct": false
+        },
+        {
+          "id": 2,
+          "answer": {
+            "RU": "1939-1947 года",
+            "ENG": "1939-1947",
+            "KZ": "1939-1947 жылдар"
+          },
+          "correct": true
+        },
+        {
+          "id": 3,
+          "answer": {
+            "RU": "1941-1945 года",
+            "ENG": "1941-1945",
+            "KZ": "1941-1945 жылдар"
+          },
+          "correct": false
+        }
+      ],
+      "description": {
+        "RU": "Втора́я мирова́я война́ (1 сентября 1939 — 2 сентября 1945) — война двух мировых военно-политических коалиций, ставшая крупнейшим вооружённым конфликтом в истории человечества.",
+        "ENG": "The Second World War (September 1, 1939 - September 2, 1945) was a war of two world military-political coalitions, which became the largest armed conflict in the history of mankind.",
+        "KZ": "Екінші дүниежүзілік соғыс (1939 ж.1 қыркүйек — 1945 ж. 2 қыркүйек) — адамзат тарихындағы ең үлкен қарулы қақтығысқа айналған екі дүниежүзілік әскери-саяси коалицияның соғысы."
+      },
+      "id": 5
+    },
+    {
+      "category": 2000,
+      "question": {
+        "RU": "Когда была атомная бомбардировка США Хиросимы и Нагасаки?",
+        "ENG": "When was the US atomic bombing of Hiroshima and Nagasaki?",
+        "KZ": "АҚШ-тың Хиросима мен Нагасакиге атом бомбасы қашан болды?"
+      },
+      "options": [{
+          "id": 0,
+          "answer": {
+            "RU": "1945 год",
+            "ENG": "1945",
+            "KZ": "1945 жыл"
+          },
+          "correct": true
+        },
+        {
+          "id": 1,
+          "answer": {
+            "RU": "1976 год",
+            "ENG": "1976",
+            "KZ": "1976 жыл"
+          },
+          "correct": false
+        },
+        {
+          "id": 2,
+          "answer": {
+            "RU": "1942 год",
+            "ENG": "1942",
+            "KZ": "1942 жыл"
+          },
+          "correct": false
+        },
+        {
+          "id": 3,
+          "answer": {
+            "RU": "1954 год",
+            "ENG": "1954",
+            "KZ": "1954 жыл"
+          },
+          "correct": false
+        }
+      ],
+      "description": {
+        "RU": "Атомные бомбардировки Хиросимы и Нагасаки (6 и 9 августа 1945 года) — два единственных в истории человечества случая боевого применения ядерного оружия. Осуществлены Вооружёнными силами США на завершающем этапе Второй мировой войны против Японии.",
+        "ENG": "The atomic bombings of Hiroshima and Nagasaki (August 6 and 9, 1945) are the only two cases of combat use of nuclear weapons in the history of mankind. Carried out by the US Armed Forces at the final stage of the Second World War against Japan.",
+        "KZ": "Хиросима мен Нагасакиді Атомдық бомбалау (1945 жылғы 6 және 9 тамыз) — адамзат тарихындағы ядролық қаруды жауынгерлік қолданудың жалғыз екі жағдайы. Екінші дүниежүзілік соғыстың Жапонияға қарсы соңғы кезеңінде АҚШ Қарулы Күштері жүзеге асырды."
+      },
+      "id": 6
+    },
+    {
+      "category": 2000,
+      "question": {
+        "RU": "Когда был образовано НАТО?",
+        "ENG": "When was NATO formed?",
+        "KZ": "НАТО қашан құрылды?"
+      },
+
+      "options": [{
+          "id": 0,
+          "answer": {
+            "RU": "1946 год",
+            "ENG": "1946",
+            "KZ": "1946 жыл"
+          },
+          "correct": false
+        },
+        {
+          "id": 1,
+          "answer": {
+            "RU": "1949 год",
+            "ENG": "1949",
+            "KZ": "1949 жыл"
+          },
+          "correct": true
+        },
+        {
+          "id": 2,
+          "answer": {
+            "RU": "1955 год",
+            "ENG": "1955",
+            "KZ": "1955 жыл"
+          },
+          "correct": false
+        },
+        {
+          "id": 3,
+          "answer": {
+            "RU": "1960 год",
+            "ENG": "1960 ",
+            "KZ": "1960  жыл"
+          },
+          "correct": false
+        }
+      ],
+      "description": {
+        "RU": "НА́ТО, Организа́ция Североатланти́ческого догово́ра, Североатлантический Альянс — военно-политический блок, объединяющий большинство стран Европы (включая Турцию), Соединённые Штаты Америки и Канаду. Основан 4 апреля 1949 года в США с целью защиты Европы от советского влияния",
+        "ENG": "NATO, the North Atlantic Treaty Organization, the North Atlantic Alliance is a military-political bloc that unites most of the countries of Europe (including Turkey), the United States of America and Canada. It was founded on April 4 , 1949 in the USA in order to protect Europe from Soviet influence",
+        "KZ": "НАТО, Солтүстік Атлантикалық Шарт Ұйымы, Солтүстік Атлантикалық Альянс-Еуропаның көптеген елдерін (соның ішінде Түркияны), Америка Құрама Штаттарын және Канаданы біріктіретін әскери-саяси блок. 1949 жылы 4 сәуірде АҚШ-та Еуропаны кеңестік ықпалдан қорғау мақсатында құрылған"
+      },
+      "id": 7
+    },
+    {
+      "category": 2000,
+      "question": {
+        "RU": "Когда был представлен миру самый первый программируемый компьютер?",
+        "ENG": "When was the very first programmable computer introduced to the world?",
+        "KZ": "Әлемге ең алғашқы бағдарламаланатын компьютер қашан енгізілді?"
+      },
+      "options": [{
+          "id": 0,
+           "answer": {
+            "RU": "23 марта 1954 год",
+            "ENG": "March 23, 1954",
+            "KZ": "23 наурыз 1954 жыл"
+          },
+          "correct": false
+        },
+        {
+          "id": 1,
+           "answer": {
+            "RU": "1 декабря 1966 год",
+            "ENG": "December 1, 1966",
+            "KZ": "1 желтоқсан 1966 жыл"
+          },
+          "correct": false
+        },
+        {
+          "id": 2,
+           "answer": {
+            "RU": "30 октября 1975 год",
+            "ENG": "October 30, 1975",
+            "KZ": "30 қазан 1975 жыл"
+          },
+          "correct": false
+        },
+        {
+          "id": 3,
+           "answer": {
+            "RU": "14 февраля 1946 год",
+            "ENG": "February 14, 1946",
+            "KZ": "14 ақпан 1946 жыл"
+          },
+          "correct": true
+        }
+      ],
+      "description": {
+        "RU": "Самый первый программируемый компьютер был представлен миру 14 февраля 1946 года в Соединенных Штатах Америки – ENIAC. Он весил 30 тонн и содержал в себе 18 000 электронных ламп. Правда скорость машины составляла всего 5 000 операций в секунду. Суммарно эта модель компьютера проработала 9 лет.",
+        "ENG": "The very first programmable computer was introduced to the world on February 14, 1946 in the United States of America – ENIAC. It weighed 30 tons and contained 18,000 electronic lamps. However, the speed of the machine was only 5,000 operations per second. In total, this computer model has worked for 9 years",
+        "KZ": "Ең алғашқы бағдарламаланатын компьютер әлемге 1946 жылы 14 ақпанда Америка Құрама Штаттарында енгізілді – ENIAC. Оның салмағы 30 тонна және 18000 электронды шамдар болды. Рас, машинаның жылдамдығы секундына 5000 операцияны құрады. Жалпы, бұл компьютер моделі 9 жыл жұмыс істеді."
+      },
+      "id": 8
+    }
+  ],
+  "3000": [],
+  "4000": [{
+      "category": 4000,
+      "question": {
+        "RU": "Какую пошлину ввели в XII  веке в Англии для того чтобы заставить мужчин пойти на войну?",
+        "ENG": "What duty was introduced in the XII century in England in order to force men to go to war?",
+        "KZ": "XII ғасырда Англияда ер адамдарды соғысқа баруға мәжбүрлеу үшін қандай баж салығы енгізілді?"
+      },
+      "options": [{
+          "id": 0,
+          "answer": {
+            "RU": "Налог на тунеядство",
+            "ENG": "Tax on parasitism",
+            "KZ": "Паразитизмге салық"
+          },
+          "correct": false
+        },
+        {
+          "id": 1,
+          "answer": {
+            "RU": "Налог на трусость",
+            "ENG": "The Cowardice Tax",
+            "KZ": "Қорқақтық салығы"
+          },
+          "correct": true
+        },
+        {
+          "id": 2,
+          "answer": {
+            "RU": "Налог на отсутствие сапог",
+            "ENG": "Tax on the absence of boots",
+            "KZ": "Етіктің болмауына салынатын салық"
+          },
+          "correct": false
+        },
+        {
+          "id": 3,
+          "answer": {
+            "RU": "Налог на ум",
+            "ENG": "Mind Tax",
+            "KZ": "Ақыл салығы"
+          },
+          "correct": false
+        }
+      ],
+      "description": {
+        "RU": "Англичанам приходилось платить налог на трусость. Им облагали всех, кто не желал принимать участие в войнах во славу короля.",
+        "ENG": "The British had to pay a tax on cowardice. They were levied on everyone who did not want to take part in wars for the glory of the king.",
+        "KZ": "Ағылшындар қорқақтық үшін салық төлеуге мәжбүр болды. Бұл патшаның даңқы үшін соғысқа қатысқысы келмейтіндердің барлығына жүктелді."
+      },
+      "id": 0
+    },
+    {
+      "category": 4000,
+      "question": {
+        "RU": "Кто из президентов США написал свой собственный рассказ про Шерлока Холмса?",
+        "ENG": "Which US President wrote his own story about Sherlock Holmes?",
+        "KZ": "АҚШ -тың қай президенті Шерлок Холмс туралы жеке әңгіме жазды?"
+      },
+      "options": [{
+          "id": 0,
+          "answer": {
+            "RU": "Джон Кеннеди",
+            "ENG": "John F. Kennedy",
+            "KZ": "Джон Кеннеди"
+          },
+          "correct": false
+        },
+        {
+          "id": 1,
+          "answer": {
+            "RU": "Джодж Герберт Уокер Буш старший",
+            "ENG": "George H. W. Bush",
+            "KZ": "Джодж Герберт Уокер Буш"
+          },
+          "correct": false
+        },
+        {
+          "id": 2,
+          "answer": {
+            "RU": "Рональд Рейган",
+            "ENG": "Ronald Reagan",
+            "KZ": "Рональд Рейган"
+          },
+          "correct": false
+        },
+        {
+          "id": 3,
+          "answer": {
+            "RU": "Франклин Рузвельт",
+            "ENG": "Franklin Roosevelt",
+            "KZ": "Франклин Рузвельт"
+          },
+          "correct": true
+        }
+      ],
+      "description": {
+        "RU": "32-1 президент США Франклин Рузвельт был известен и как писатель. В 1945 году он попытался воскресить образ знаменитого литературного героя, написав сочинение «Бейкер-стрит фолио: пять записок о Шерлоке Холмсе от Франклина Делано Рузвельта»",
+        "ENG": "32-1 US President Franklin Roosevelt was also known as a writer. In 1945, he tried to resurrect the image of the famous literary hero, writing the essay «Baker Street Folio: Five Notes on Sherlock Holmes from Franklin Delano Roosevelt.»",
+        "KZ": "32-1 АҚШ президенті Франклин Рузвельт жазушы ретінде де белгілі болды. 1945 жылы ол «Бейкер көше фолионы: Франклин Делано Рузвельттен Шерлок Холмс туралы бес ескертпе» эссе жазып, әйгілі әдеби кейіпкердің бейнесін қайта тірілтуге тырысты."
+      },
+      "id": 1
+    },
+    {
+      "category": 4000,
+      "question": {
+        "RU": "Откуда пошло выражение «деньги не пахнут?»",
+        "ENG": "Where did the expression «money don't smell?»",
+        "KZ": "«Ақшаның иісі жоқ?» деген қалай пайда болды?"
+      },
+      "options": [{
+          "id": 0,
+          "answer": {
+            "RU": "От подателей за провоз парфюмерии",
+            "ENG": "From the bearers for the transport of perfumes",
+            "KZ": "Парфюмерия тасымалдаушылардан"
+          },
+          "correct": false
+        },
+        {
+          "id": 1,
+          "answer": {
+            "RU": "От налога на туалеты",
+            "ENG": "From the toilet tax",
+            "KZ": "Дәретхана салығынан"
+          },
+          "correct": true
+        },
+        {
+          "id": 2,
+          "answer": {
+            "RU": "От сборов за нестиранные носки",
+            "ENG": "From fees for unwashed socks",
+            "KZ": "Жуылмаған шұлық үшін алымдардан"
+          },
+          "correct": false
+        },
+        {
+          "id": 3,
+          "answer": {
+            "RU": "От налога на вонь",
+            "ENG": "From tax on stench",
+            "KZ": "Сасық иістен алынатын салықтан"
+          },
+          "correct": false
+        }
+      ],
+      "description": {
+        "RU": "Римский император Веспасиан ввел для горожан налог на общественные туалеты. Сын не поддержал идею отца. Тогда монарх поднес к носу отпрыска деньги и спросил, пахнут ли они. Отсюда произошло выражение.",
+        "ENG": "The Roman emperor Vespasian introduced a tax on public toilets for the townspeople. The son did not support the father's idea. Then the monarch brought the money to the son's nose and asked if it smelled. Hence the expression.",
+        "KZ": "Рим императоры Веспасиан қала тұрғындары үшін қоғамдық дәретханаларға салық енгізді. Бала әкесінің идеясын қолдамады. Содан кейін монарх ақшаны ұлының мұрнына апарып, иісі бар ма деп сұрады. Демек өрнек."
+      },
+      "id": 2
+    },
+    {
+      "category": 4000,
+      "question": {
+        "RU": "Туристы, приезжающие на Майорку, обязаны заплатить налог...",
+        "ENG": "Tourists coming to Mallorca are required to pay tax...",
+        "KZ": "Майоркаға келетін туристер салық төлеуге міндетті..."
+      },
+      "options": [{
+          "id": 0,
+          "answer": {
+            "RU": "На солнце",
+            "ENG": "Sun tax",
+            "KZ": "Күн салығы"
+          },
+
+          "correct": true
+        },
+        {
+          "id": 1,
+          "answer": {
+            "RU": "На воздух",
+            "ENG": "Air tax",
+            "KZ": "ауа салығы"
+          },
+
+          "correct": false
+        },
+        {
+          "id": 2,
+          "answer": {
+            "RU": "На пальмы",
+            "ENG": "Palm tax",
+            "KZ": "Пальма салығы"
+          },
+
+          "correct": false
+        },
+        {
+          "id": 3,
+          "answer": {
+            "RU": "На плавки",
+            "ENG": "tax on swimming trunks",
+            "KZ": "Суға түсуге арналған іш киім салығы"
+          },
+
+          "correct": false
+        }
+      ],
+      "description": {
+        "RU": "Налог на солнце обязаны платить все туристы, которые приезжают на Майорку. Плата невысокая, всего 1 евро в день, Власти говорят, то собранные деньги тратятся на улучшение туристической инфраструктуры.",
+        "ENG": "All tourists who come to Mallorca must pay the sun tax. The fees are not high, only 1 euro per day. The authorities say that the collected money is being spent on improving the tourist infrastructure.",
+        "KZ": "Майоркаға келген барлық туристер күн салығын төлеуі керек. Алымдар жоғары емес, күніне 1 евро ғана.Құзырлы органдар жиналған ақшаның туристік инфрақұрылымды жақсартуға жұмсалатынын айтады."
+      },
+      "id": 3
+    },
+    {
+      "category": 4000,
+      "question": {
+        "RU": "Российский мультфильм, удостоенный «Оскара», — это…",
+        "ENG": "The Oscar-winning Russian cartoon is ...",
+        "KZ": "«Оскар» сыйлығын алған ресейлік мультфильм ..."
+      },
+      "options": [{
+          "id": 0,
+          "answer": {
+            "RU": "«Простоквашино»",
+            "ENG": "«Prostokvashino»",
+            "KZ": "«Простоквашино»"
+          },
+          "correct": false
+        },
+        {
+          "id": 1,
+          "answer": {
+            "RU": "«Старик и море»",
+            "ENG": "«The old man and the sea»",
+            "KZ": "«Қарт пен теңіз»"
+          },
+          "correct": true
+        },
+        {
+          "id": 2,
+          "answer": {
+            "RU": "«Винни-Пух»",
+            "ENG": "Winnie the Pooh",
+            "KZ": "«Винни-Пух»"
+          },
+          "correct": false
+        },
+        {
+          "id": 3,
+          "answer": {
+            "RU": "«Ну, погоди!»",
+            "ENG": "Well, wait!",
+            "KZ": "«Ну, погоди!»"
+          },
+          "correct": false
+        }
+      ],
+      "description": {
+        "RU": "В 2000 году премию «Оскар» вручили российскому режиссеру, художнику-мультипликатору Александру Петрову за лучший короткометражный мультфильм года «Старик и море», снятый по мотивам повести Эрнеста Хемингуэя.",
+        "ENG": "In 2000, the Oscars were awarded to a Russian director, artist-animator Alexander Petrov for the best short-length cartoon «The Old Man and the Sea», based on the story of Ernest Hemingway.",
+        "KZ": "2000 жылы «Оскар» сыйлығы ресейлік режиссер, анимациялық суретші Александр Петровқа Эрнест Хемингуэйдің әңгімесі бойынша «Қария мен теңіз» жылдың үздік қысқа мультфильмі үшін берілді."
+      },
+      "id": 4
+    },
+    {
+      "category": 4000,
+      "question": {
+        "RU": "Самая высокая гора в мире?",
+        "ENG": "The tallest mountain in the world?",
+        "KZ": "Әлемдегі ең биік тау?"
+      },
+      "options": [{
+          "id": 0,
+          "answer": {
+            "RU": "Чогори",
+            "ENG": "Chogori",
+            "KZ": "Чогори"
+          },
+          "correct": false
+        },
+        {
+          "id": 1,
+          "answer": {
+            "RU": "Сагарматха",
+            "ENG": "Sagarmatha",
+            "KZ": "Сагарматха"
+          },
+          "correct": true
+        },
+        {
+          "id": 2,
+          "answer": {
+            "RU": "Макалу",
+            "ENG": "Makalu",
+            "KZ": "Макалу"
+          },
+          "correct": false
+        },
+        {
+          "id": 3,
+          "answer": {
+            "RU": "Дхаулагири",
+            "ENG": "Dhaulagiri",
+            "KZ": "Дхаулагири"
+          },
+          "correct": false
+        }
+      ],
+      "description": {
+        "RU": "Джомолу́нгма, Эвере́ст, Сагарма́тха, Шэнмуфэн — высочайшая вершина Земли (8848,86 м).",
+        "ENG": "Jomolungma, Everest, Sagarmatha, Shengmufen are the highest peak of the Earth (8848.86 m).",
+        "KZ": "Джомолунгма, Эверест, Сагарматха, Шенгмуфен - Жердің ең биік шыңы (8848,86 м)."
+      },
+      "id": 5
+    },
+    {
+      "category": 4000,
+      "question": {
+        "RU": "Самая быстрая женщина планеты",
+        "ENG": "The fastest woman on the planet",
+        "KZ": "Әлемдегі ең жылдам әйел"
+      },
+      "options": [{
+          "id": 0,
+           "answer": {
+            "RU": "Анастасия Капачинская",
+            "ENG": "Anastasia Kapachinskaya",
+            "KZ": "Анастасия Капачинская"
+          },
+
+          "correct": false
+        },
+        {
+          "id": 1,
+           "answer": {
+            "RU": "Эллисон Феликс",
+            "ENG": "Allison Felix",
+            "KZ": "Эллисон Феликс"
+          },
+
+          "correct": false
+        },
+        {
+          "id": 2,
+           "answer": {
+            "RU": "Керрон Стюарт",
+            "ENG": "Kerron Stewart",
+            "KZ": "Керрон Стюарт"
+          },
+
+          "correct": false
+        },
+        {
+          "id": 3,
+           "answer": {
+            "RU": "Флоренс Гриффит Джойнер",
+            "ENG": "Florence Griffith Joyner",
+            "KZ": "Флоренс Гриффит Джойнер"
+          },
+
+          "correct": true
+        }
+      ],
+      "description": {
+        "RU": "Фло́ренс Гри́ффит-Джо́йнер — американская легкоатлетка, трёхкратная олимпийская чемпионка, чемпионка и рекордсменка мира. Обладательница действующих рекордов мира в беге на 100 м (10,49 сек — 16 июля 1988 года) и 200 м (21,34 — 29 сентября 1988 года).",
+        "ENG": "Florence Griffith-Joyner is an American athlete, three-time Olympic champion, champion and world record holder. The holder of the current world records in running 100 meters (10.49 seconds - July 16, 1988) and 200 meters (21.34 - September 29, 1988).",
+        "KZ": "Флоренс Гриффит-Джойнер-американдық спортшы, үш дүркін Олимпиада чемпионы, чемпион және әлем рекордшысы. 100 метр (10.49 секунд - 1988 ж. 16 шілде) және 200 метр (21.34 - 29 қыркүйек 1988 ж.) Жүгіруде қазіргі әлемдік рекордтардың иегері."
+      },
+      "id": 6
+    },
+    {
+      "category": 4000,
+      "question": {
+        "RU": "Седьмая планета в солнечной системе",
+        "ENG": "Seventh planet in the solar system",
+        "KZ": "Күн жүйесіндегі жетінші планета"
+      },
+      "options": [{
+          "id": 0,
+          "answer": {
+            "RU": "Нептун",
+            "ENG": "Neptune",
+            "KZ": "Нептун"
+          },
+          "correct": false
+        },
+        {
+          "id": 1,
+          "answer": {
+            "RU": "Сатурн",
+            "ENG": "Saturn",
+            "KZ": "Сатурн"
+          },
+          "correct": false
+        },
+        {
+          "id": 2,
+          "answer": {
+            "RU": "Уран",
+            "ENG": "Uranus",
+            "KZ": "Уран"
+          },
+          "correct": true
+        },
+        {
+          "id": 3,
+          "answer": {
+            "RU": "Юпитер",
+            "ENG": "Jupiter",
+            "KZ": "Юпитер"
+          },
+          "correct": false
+        }
+      ],
+      "description": {
+        "RU": "Ура́н — планета Солнечной системы, седьмая по удалённости от Солнца, третья по диаметру и четвёртая по массе. Была открыта в 1781 году английским астрономом Уильямом Гершелем и названа в честь греческого бога неба Урана.",
+        "ENG": "Uranus is a planet in the solar system, the seventh in terms of distance from the Sun, third in diameter and fourth in mass. It was discovered in 1781 by the English astronomer William Herschel and named after the Greek god of the sky, Uranus.",
+        "KZ": "Уран - Күн жүйесіндегі планета, Күннен қашықтығы бойынша жетінші, диаметрі бойынша үшінші, массасы бойынша төртінші. Оны 1781 жылы ағылшын астрономы Уильям Гершель ашқан және гректің аспан құдайы Уранның құрметіне аталған."
+      },
+      "id": 7
+    },
+    {
+      "category": 4000,
+      "question": {
+        "RU": "Самая счастливая страна в мире",
+        "ENG": "The happiest country in the world",
+        "KZ": "Әлемдегі ең бақытты ел"
+      },
+      
+      "options": [{
+          "id": 0,
+          "answer": {
+            "RU": "Финляндия",
+            "ENG": "Finland",
+            "KZ": "Финляндия"
+          },
+          "correct": true
+        },
+        {
+          "id": 1,
+          "answer": {
+            "RU": "Швеция",
+            "ENG": "Sweden",
+            "KZ": "Швеция"
+          },
+          "correct": false
+        },
+        {
+          "id": 2,
+          "answer": {
+            "RU": "Германия",
+            "ENG": "Germany",
+            "KZ": "Германия"
+          },
+          "correct": false
+        },
+        {
+          "id": 3,
+          "answer": {
+            "RU": "Швейцария",
+            "ENG": "Switzerland",
+            "KZ": "Швейцария"
+          },
+          "correct": false
+        }
+      ],
+      "description": {
+        "RU": "Финля́ндия — государство в Северной Европе на восточном побережье Балтийского моря. На востоке граничит с Россией, на севере с Норвегией и на западе со Швецией. На юге ближайшим соседом является Эстония к югу от Финского залива. Столица и крупнейший город Финляндии — Хельсинки.",
+        "ENG": "Finland is a state in Northern Europe on the eastern coast of the Baltic Sea. In the east it borders with Russia, in the north with Norway and in the west with Sweden. In the south, the nearest neighbor is Estonia, south of the Gulf of Finland. The capital and largest city of Finland is Helsinki.",
+        "KZ": "Финляндия - Солтүстік Еуропадағы Балтық теңізінің шығыс жағалауындағы мемлекет. Шығыста Ресеймен, солтүстікте Норвегиямен және батыста Швециямен шектеседі. Оңтүстікте ең жақын көрші - Финляндия шығанағының оңтүстігінде Эстония. Финляндияның астанасы мен ең үлкен қаласы - Хельсинки."
+      },
+      "id": 8
+    },
+    {
+      "category": 4000,
+      "question": {
+        "RU": "Один из самых сложных языков мира",
+        "ENG": "One of the most difficult languages in the world",
+        "KZ": "Әлемдегі ең қиын тілдердің бірі"
+      },
+      "options": [{
+          "id": 0,
+          "answer": {
+            "RU": "Эсперанто",
+            "ENG": "Esperanto",
+            "KZ": "Эсперанто тілі"
+          },
+          "correct": false
+        },
+        {
+          "id": 1,
+          "answer": {
+            "RU": "Английский язык",
+            "ENG": "English",
+            "KZ": "Ағылшын тілі"
+          },
+          "correct": false
+        },
+        {
+          "id": 2,
+          "answer": {
+            "RU": "Итальянский язык",
+            "ENG": "Italian",
+            "KZ": "Итальян тілі"
+          },
+          "correct": false
+        },
+        {
+          "id": 3,
+          "answer": {
+            "RU": "Китайский язык",
+            "ENG": "Chinese",
+            "KZ": "Қытай тілі"
+          },
+          "correct": true
+        }
+      ],
+      "description": {
+        "RU": "Главная сложность китайского — это письменность, а именно — иероглифы. Каждое слово здесь — это отдельный символ, по внешнему виду которого никак нельзя понять, как именно его произносить. Необычным является и то, что фонетика китайского языка обладает тональностью. В мандаринском диалекте, например, существует 4 варианта интонации.",
+        "ENG": "The main difficulty of Chinese is writing, namely hieroglyphs. Each word here is a separate symbol, from the outward appearance of which it is impossible to understand exactly how to pronounce it. It is also unusual that the phonetics of the Chinese language has tonality. In the Mandarin dialect, for example, there are 4 variations of intonation.",
+        "KZ": "Қытай тіліндегі негізгі қиындық - жазу, атап айтқанда иероглифтер. Мұндағы әрбір сөз - бұл жеке символ, оны сыртқы түрінен қалай айту керектігін түсіну мүмкін емес. Сонымен қатар, қытай тілінің фонетикасының тоналдылығы ерекше. Мандарин диалектісінде, мысалы, интонацияның 4 вариациясы бар."
+      },
+      "id": 9
+    }
+  ],
+  "category": [{
+      "name": "flags",
+      "id": 1000
+    },
+    {
+      "name": "years",
+      "id": 2000
+    },
+    {
+      "name": "scince",
+      "id": 3000
+    },
+    {
+      "name": "general issues",
+      "id": 4000
+    }
+  ]
+}
